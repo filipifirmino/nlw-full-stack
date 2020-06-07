@@ -21,7 +21,7 @@ Foi uma semana intensa de muito aprendizado e mão no código.
 #Repositórios do projeto
 
 <a href ="https://github.com/ic3web/nlw2020-mobile"> Mobile :https://github.com/ic3web/nlw2020-mobile</a><br/>
-<a href ="https://github.com/ic3web/nlw2020-web] "> Web: https://github.com/ic3web/nlw2020-web)</a><br/>
+<a href ="https://github.com/ic3web/nlw2020-web] "> Web: https://github.com/ic3web/nlw2020-web</a><br/>
 <a href ="https://github.com/ic3web/nlw2020--server"> Server: (https://github.com/ic3web/nlw2020--server</a><br/>
 
 
