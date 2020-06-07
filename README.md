@@ -21,8 +21,8 @@ Foi uma semana intensa de muito aprendizado e mão no código.
 #Repositórios do projeto
 
 <a href ="https://github.com/ic3web/nlw2020-mobile"> Mobile :https://github.com/ic3web/nlw2020-mobile</a><br/>
-<a href ="https://github.com/ic3web/nlw2020-web] "> Web(https://github.com/ic3web/nlw2020-web)</a><br/>
-<a href ="https://github.com/ic3web/nlw2020--server"> Server (https://github.com/ic3web/nlw2020--server</a><br/>
+<a href ="https://github.com/ic3web/nlw2020-web] "> Web: https://github.com/ic3web/nlw2020-web)</a><br/>
+<a href ="https://github.com/ic3web/nlw2020--server"> Server: (https://github.com/ic3web/nlw2020--server</a><br/>
 
 
 >EN-US
@@ -49,6 +49,6 @@ It was an intense week of a lot of learning and hand in code.
 
 # Project repositories
 
-	> Mobile :https://github.com/ic3web/nlw2020-mobile
-	> Web: https://github.com/ic3web/nlw2020-web
-	>S erver:https://github.com/ic3web/nlw2020--server
+<a href ="https://github.com/ic3web/nlw2020-mobile"> Mobile :https://github.com/ic3web/nlw2020-mobile</a><br/>
+<a href ="https://github.com/ic3web/nlw2020-web] "> Web: https://github.com/ic3web/nlw2020-web)</a><br/>
+<a href ="https://github.com/ic3web/nlw2020--server"> Server: (https://github.com/ic3web/nlw2020--server</a><br/>
