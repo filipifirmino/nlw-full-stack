@@ -20,9 +20,9 @@ Foi uma semana intensa de muito aprendizado e mão no código.
 
 #Repositórios do projeto
 
-[Mobile :https://github.com/ic3web/nlw2020-mobile] (https://github.com/ic3web/nlw2020-mobile)
-[Web: https://github.com/ic3web/nlw2020-web] (https://github.com/ic3web/nlw2020-web)
-[Server:https://github.com/ic3web/nlw2020--server] (https://github.com/ic3web/nlw2020--server)
+<a href ="https://github.com/ic3web/nlw2020-mobile"> Mobile :https://github.com/ic3web/nlw2020-mobile</a>
+<a href ="https://github.com/ic3web/nlw2020-web] "> Web(https://github.com/ic3web/nlw2020-web)</a>
+<a href ="https://github.com/ic3web/nlw2020--server"> Server (https://github.com/ic3web/nlw2020--server)</a>
 
 
 >EN-US
